@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>output/training_plot.jpg</file>
+    <file>images/avatar.jpeg</file>
+  </qresource>
+</RCC>
